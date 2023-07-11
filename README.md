@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panda-go-da
 - 👀 I’m interested in ML, DA/DS, CI/CD, DevOps and somewhat proficient in Core network planning for CS, PS and IMS
-- 🌱 I’m currently looking through "IBM DA0101EN Data Analysis with Python" to apply it in my day-to-day work AND highly interested in customer churn prediction
+- 🌱 I’m currently looking through Cognitive class data science courses to apply it in my day-to-day work AND highly interested in customer churn prediction
 - 💞️ I’m looking to collaborate on ML and DA/DS stuff
 - 📫 ***UNDER MAINTENANCE***
 
